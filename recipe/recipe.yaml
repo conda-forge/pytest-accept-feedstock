@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.3"
+  version: "0.3.0"
 
 package:
   name: pytest-accept
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pytest-accept/pytest_accept-${{ version }}.tar.gz
-  sha256: c747d92ef0bcac0dc20e46f3dfb73b8e9aee970de11b98985868560ca508d06e
+  sha256: 6f4e03e2492621e10b7678a331828274498cca04686b15b0f3e704e16e651068
 
 build:
   number: 0
